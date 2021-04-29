@@ -1,5 +1,5 @@
 {
-  "token": "TOKEN",
+  "token": "ODM3Mjg4NzM2MDU5MjkzNzM2.YIqX5g.abagFqhNYO1-m-J71iRFMimvlyo",
   "prefix": "!",
 
   "clientsettings": {
@@ -45,9 +45,9 @@
 
 
   "status": {
-    "text": "!help | powered by milrato.eu",
-    "type": "STREAMING", "COMMENT:": "TYPES ARE: PLAYING, STREAMING, WATCHING, LISTENING",
-    "url": "https://twitch.tv/milratodiscordbot"
+    "text": "!help | powered by OverPower",
+    "type": "OverPowering", "COMMENT:": "TYPES ARE: PLAYING, STREAMING, WATCHING, LISTENING",
+    "url": "https://www.youtube.com/channel/UCM6j8IPqsTsNmyL43eEv97g"
   }
 
 }
